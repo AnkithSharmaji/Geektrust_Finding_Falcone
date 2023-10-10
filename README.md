@@ -1,6 +1,3 @@
-# Geektrust_Finding_Falcone
-
-
 ## Introduction
 
 This is a React project developed for the Finding Falcone coding challenge. The challenge is to help King Shan find Al Falcone, who is hiding on one of six planets. The goal is to select four planets to search, choose which space vehicles to send to these planets, calculate the time it will take for the vehicles to reach their targets, and display the final result of success or failure.
