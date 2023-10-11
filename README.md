@@ -10,7 +10,7 @@ This is a React project developed for the Finding Falcone coding challenge. The 
 4. Run `npm start` to start the development server.
 5. Open your browser and go to `http://localhost:3000` to access the application.
 
-Optional: You can deploy your code to a public cloud instance and share the link with others to see your final UI.
+
 
 ## Problem Context
 
